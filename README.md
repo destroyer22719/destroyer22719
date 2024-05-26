@@ -2,6 +2,8 @@
 
 I'm a full stack developer, I use mainly React and NodeJS, an NPM Author, currently in Queen's Computer Science.
 
+[Resume](https://rb.gy/9sbpg5)
+
 
 ### Projects
 - [FoodFlation](https://foodflation.me)
